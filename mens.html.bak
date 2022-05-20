@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Wildcat Retail :: Mens</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <header>
+                <div><img id="logo" src="logo.jpg"></div>
+                <div class="headdiv">
+                    <a href="index.html"><h1>Wildcat Retail</h1></a>
+                </div>
+            </header>
+            <nav>
+                <a href="index.html">Home</a>&nbsp;
+                <a href="aboutUs.html">About Us</a>&nbsp;
+                <a href="mens.html">Mens</a>&nbsp;
+                <a href="womens.html">Womens</a>&nbsp;
+                <a href="kids.html">Kids</a>&nbsp;
+                <a href="accessories.html">Accessories</a>&nbsp;
+                <a href="contactUs.html">Contact Us</a>
+            </nav>
+            <main>
+                <div class="indexBod">
+				<h3 class="mainHeader3">Mens</h3>
+                    <div class="productWrap">
+                        <table>
+                            <tr>
+                                <th><img class="proImg" src="productImgs/mens/pantsTest.jpg" alt="Pants"><br>Pants</th>
+                                <th><img class="proImg" src="productImgs/mens/sweatTest.jpg" alt="Sweats"><br>Sweats</th>
+                                <th><img class="proImg" src="productImgs/mens/blkJeans.jpg" alt="Black Jeans"><br>Black Jeans</th>
+                                <th><img class="proImg" src="productImgs/mens/premJeansMens.jpg" alt="Prem. Acid Wash Jeans"><br>Prem. Acid Wash Jeans</th>
+                                <th><img class="proImg" src="productImgs/mens/navyJeans.jpg" alt="Navy Jeans"><br>Navy Jeans</th>
+                                <th><img class="proImg" src="productImgs/mens/corduroy.jpg" alt="Cordouroy Pants"><br>Corduroy Pants</th>
+                                
+                            </tr>
+                            <tr>
+                                <td>Pair of comfy pants<br>$30</td>
+                                <td>Pair of comfy sweats<br>$40</td>
+                                <td>Pair of black denim jeans<br>$50</td>
+                                <td>Pair of designer jeans<br>$180</td>
+                                <td>Pair of navy denim jeans<br>$50</td>
+                                <td>Pair of corduroy pants<br>$50</td>
+                            </tr>
+                            <tr>
+                                <th><img class="proImg" src="productImgs/mens/longsleeveTee.jpg" alt="Long Sleeve Tee"><br>Long Sleeve Tee</th>
+                                <th><img class="proImg" src="productImgs/mens/bearDownTee.jpg" alt="Bear Down Tee"><br>BEAR DOWN Tee</th>
+                                <th><img class="proImg" src="productImgs/mens/tank.jpg" alt="Tank Top"><br>Tank Top</th>
+                                <th><img class="proImg" src="productImgs/mens/hoodieTank.jpg" alt="Hoodie Tank"><br>Hoodie Tank</th>
+                                <th><img class="proImg" src="productImgs/mens/shortSleeveTee.jpg" alt="Arizona Blue Logo Tee"><br>Arizona Blue Logo Tee</th>
+                                <th><img class="proImg" src="productImgs/mens/redLogoTee.jpg" alt="Arizona Red Logo Tee"><br>Arizona Red Logo Tee</th>
+                            </tr>
+                            <tr>
+                                <td>Long sleeve tee<br>$30</td>
+                                <td>BEAR DOWN LOGO tee<br>$19</td>
+                                <td>Arizona Blue Tank<br>$30</td>
+                                <td>Tank and Hoodie combo top<br>$30</td>
+                                <td>'A' logo tee<br>$30</td>
+                                <td>'A' logo tee<br>$30</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </main>
+            <footer>
+                <p>
+                    1510 E University Blvd, Tucson, AZ 85721 <br>
+                    <a href="mailto:wild4retail@gmail.com">wild4retail@gmail.com</a><br>
+                    <a href="tel:5205550909">520-555-0909</a>
+                </p>
+            </footer>
+        </div>
+    </body>
+</html>
